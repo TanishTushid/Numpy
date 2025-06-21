@@ -1,0 +1,10 @@
+
+broadcasting -> 
+1. it's expand smaller array's to largers array's for a match
+2. 1D to 2D broadcasting
+
+vectorization -> 
+1.apply operation on entire array in a single time 
+2. apply single value on entire array
+3. using on matrix operation's
+
